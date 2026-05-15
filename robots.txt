@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ai-usage-billing-gets-complicated-fast-o5dmf2tmd.vercel.app/sitemap.xml
